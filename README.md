@@ -2,7 +2,7 @@
 
 ## Adım 1: Docker Desktop İndirme ve Kurulum
 
-\* Docker Desktop web sitesine gidin: <a href="https://www.docker.com/products/docker-desktop/">https://www.docker.com/products/docker-desktop/</a>
+\* Docker Desktop web sitesine gidin: <a href="https://www.docker.com/products/docker-desktop/" target="_blank">https://www.docker.com/products/docker-desktop/</a>
 
 * İndirme butonuna tıklayarak Docker Desktop'u bilgisayarınıza indirin.
 
