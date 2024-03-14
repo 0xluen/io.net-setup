@@ -1,6 +1,6 @@
-## io.net Kurulumu ve "zsh: bad CPU type in executable" Hatasını Çözme (Apple Chip)
+# io.net Kurulumu ve "zsh: bad CPU type in executable" Hatasını Çözme (Apple Chip)
 
-# Adım 1: Docker Desktop İndirme ve Kurulum
+## Adım 1: Docker Desktop İndirme ve Kurulum
 
 \* Docker Desktop web sitesine gidin: https://www.docker.com/products/docker-desktop/
 
@@ -8,21 +8,21 @@
 
 İndirme tamamlandıktan sonra, indirilen dosyayı açın ve Docker Desktop'u kurun.
 
-Adım 2: Rosetta'yı Güncelleme
+## Adım 2: Rosetta'yı Güncelleme
 
 Terminal'i açın.
 
 Aşağıdaki komutu girerek Rosetta'yı güncelleyin:
 
-softwareupdate --install-rosetta
+<code>softwareupdate --install-rosetta</code>
 
-Adım 3: io.net Üzerinden Worker Eklemek
+## Adım 3: io.net Üzerinden Worker Eklemek
 
 io.net platformuna giriş yapın.
 
 worker menusune girin ve Connect New Worker butonuna tıklayın.
 
-Adım 4: Worker Ayarlarını Yapma
+## Adım 4: Worker Ayarlarını Yapma
 
 "Select Operating System (OS)" (İşletim Sistemi Seçimi) adımında "macOS" seçeneğini belirleyin.
 
@@ -34,7 +34,7 @@ Adım 4: Worker Ayarlarını Yapma
 
 Gerekli olduğunda, Docker Desktop'u daha önce zaten yüklediğinizden emin olun.
 
-Adım 5: Binary İndirme ve Başlatma
+## Adım 5: Binary İndirme ve Başlatma
 
 Son adımda gösterilen komutları sırasıyla Terminal'e girin. (Worker eklediğiniz kısımda 6. maddede belirtilen 3 komut )
 
