@@ -1,6 +1,6 @@
 ## io.net Kurulumu ve "zsh: bad CPU type in executable" Hatasını Çözme (Apple Chip)
 
-Adım 1: Docker Desktop İndirme ve Kurulum
+# Adım 1: Docker Desktop İndirme ve Kurulum
 
 \* Docker Desktop web sitesine gidin: https://www.docker.com/products/docker-desktop/
 
